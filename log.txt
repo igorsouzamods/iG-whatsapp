@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "iG whatsapp",
-      "code": 23,
+      "code": 25,
       "url": "http://bit.ly/DELTAv363",
       "changelog": "- Backup Restore Theme include Cover - Themes Store - Fix Bug (Semoga)"
     }
