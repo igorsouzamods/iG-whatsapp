@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA YOWA v3.6.3",
-      "code": 23,
+      "code": 24,
       "url": "http://bit.ly/DELTAv363",
       "changelog": "- Backup Restore Theme include Cover - Themes Store - Fix Bug (Semoga)"
     }
