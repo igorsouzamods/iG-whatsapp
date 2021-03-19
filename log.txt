@@ -1,5 +1,5 @@
 {"version_code":9999999999,"content":"
-<p>iG whatsapp</p>
+<p>iG whatsapp v8.85</p>
 
 
 <l>Lista de cambios</li>
