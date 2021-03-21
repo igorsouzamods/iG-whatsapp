@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "iG WhatsApp v8.85",
-      "code": 23,
+      "code": 24,
       "url": "https://chat.whatsapp.com/JyYeCxes2iPHTY3GxSwrSq",
       "changelog": "- By Igor Souza Mods
 
