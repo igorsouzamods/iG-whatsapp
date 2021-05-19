@@ -1,2 +1,10 @@
-.
-.
+{
+  "records": [
+    {
+      "version": "iG Whatsapp v8.85",
+      "code": 23,
+      "url": "http://bit.ly",
+      "changelog": "- Add Conversation List Animation - Redesign DELTA Settings - Add option to Save, Load and Restore Theme in DELTA Theme Store - Fix DND Mode - Fix Schedule Message - More.."
+    }
+  ]
+}
