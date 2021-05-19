@@ -1,12 +1,10 @@
 {
   "records": [
     {
-      "version": "iG Whatsapp v8.85",
+      "version": "DELTA YOWA v3.7.1F",
       "code": 23,
-      "url": "https://chat.whatsapp.com/L6xeGt7EvgEFhMzQrfGhZ7",
-      "changelog": "- By Igor Souza Mods
-
-Mantenha o seu iG Whatsapp atualizado para não ter problema de ficar obsoleto"
+      "url": "http://bit.ly/DELTAv371",
+      "changelog": "- Add Conversation List Animation - Redesign DELTA Settings - Add option to Save, Load and Restore Theme in DELTA Theme Store - Fix DND Mode - Fix Schedule Message - More.."
     }
   ]
 }
