@@ -1,1 +1,10 @@
-
+{
+  "registros": [
+    {
+      "versão": "iG Whatsapp v8.85",
+      "código": 26,
+      "url": "https://youtu.be/OJIWppxizVw",
+      "changelog": "- Adicionar Animação da Lista de Conversas - Redesenhar as Configurações DELTA - Adicionar opção para Salvar, Carregar e Restaurar Tema no DELTA Theme Store - Corrigir Modo DND - Corrigir Mensagem de Programação - Mais .."
+    }
+  ]
+}
