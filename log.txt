@@ -1,9 +1,7 @@
 {
   "records": [
     {
-      "version": "iG Whatsapp v8.95",
-      "url": "https://youtu.be/xguK59-kKas",
-      "changelog": "- By Igor Souza Mods
+     
 
 Mantenha o seu iG Whatsapp atualizado para não ter problema de ficar obsoleto"
     }
