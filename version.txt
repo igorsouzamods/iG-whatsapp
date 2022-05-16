@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "iG Whatsapp v9.10 Lite",
-      "code": 39,
+      "code": 40,
       "url": "https://youtu.be/8jyNLlcP658",
       "changelog": "- By Igor Souza Mods
 
