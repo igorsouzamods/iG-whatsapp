@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "iG Whatsapp v9.10",
-      "code": 40,
-      "url": "https://youtu.be/bD7ggd-YHGk",
+      "version": "iG Whatsapp v9.10 Fix",
+      "code": 41,
+      "url": "https://youtu.be/tPStBYG5olM",
       "changelog": "- By Igor Souza Mods
 
 Mantenha o seu iG Whatsapp atualizado para não ter problema de ficar obsoleto"
