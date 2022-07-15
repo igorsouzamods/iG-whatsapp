@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "iG Whatsapp v9.10 Lite",
-      "code": 40,
-      "url": "https://youtu.be/8jyNLlcP658",
+      "version": "iG Whatsapp v9.10 Lite Estendida",
+      "code": 41,
+      "url": "https://youtu.be/ndLCbgyt1KM",
       "changelog": "- By Igor Souza Mods
 
 Mantenha o seu iG Whatsapp Lite atualizado para não ter problema de ficar obsoleto"
