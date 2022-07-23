@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "iG Whatsapp v9.10 Estendida",
-      "code": 42,
+      "code": 41,
       "url": "https://youtu.be/WoPRVy5fl6k",
       "changelog": "- By Igor Souza Mods
 
