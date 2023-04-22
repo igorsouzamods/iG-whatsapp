@@ -1,12 +1,10 @@
 {
-  "records": [
+  "registros": [
     {
-      "version": "iG Whatsapp v9.20",
-      "code": 65,
-      "url": "https://youtu.be/WoPRVy5fl6k",
-      "changelog": "- By Igor Souza Mods
-
-Mantenha o seu iG Whatsapp atualizado para não ter problema de ficar obsoleto"
+      "versão": "DELTA ULTRA v5.0.2",
+      "código": 66,
+      "url": "https://bit.ly/ULTRA502",
+      "changelog": "- Filtrar chats - Fakechat em grupos - Excluir para todos melhorado - Ativado Algumas funções ocultas"
     }
   ]
 }
