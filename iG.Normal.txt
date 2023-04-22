@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "iG Whatsapp v9.15",
+      "version": "iG Whatsapp v9.20",
       "code": 65,
       "url": "https://youtu.be/WoPRVy5fl6k",
       "changelog": "- By Igor Souza Mods
