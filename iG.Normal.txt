@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "iG Whatsapp v9.15",
-      "code": 921,
+      "code": 922,
       "url": "https://youtu.be/WoPRVy5fl6k",
       "changelog": "- By Igor Souza Mods
 
