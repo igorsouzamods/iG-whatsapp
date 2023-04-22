@@ -2,7 +2,7 @@
   "registros": [
     {
       "versão": "DELTA ULTRA v5.0.2",
-      "código": 66,
+      "código": 80,
       "url": "https://bit.ly/ULTRA502",
       "changelog": "- Filtrar chats - Fakechat em grupos - Excluir para todos melhorado - Ativado Algumas funções ocultas"
     }
